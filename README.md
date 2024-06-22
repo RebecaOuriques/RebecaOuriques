@@ -2,11 +2,12 @@
 
 - 🔭 Atualmente migrando para área da programação;
 - 🌱 Estudando: Java, JavaScript, Banco de dados, Frontend, Backend;
-- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Amo ler e já reli Harry Potter + de 7 vezes ⚡🤓;
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebecaOuriques&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaOuriques&layout=compact&theme=cobalt)
+
+### Tecnologias que utilizo:
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,8 +19,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
 </div>
-_______________________________________________________________________________________________________________________________________
 
+
+### Contato:
 <div> 
  
  <!--

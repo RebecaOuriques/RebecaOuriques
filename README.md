@@ -1,27 +1,10 @@
-## Olá! Eu sou a Rebeca Ouriques 👋
+## Hi! I am Rebeca Ouriques 👋
 
-- 🔭 Atualmente migrando para área da programação;
-- 🌱 Estudando: Java, JavaScript, Banco de dados, Frontend, Backend;
-- ⚡ Fun fact: Amo ler e já reli Harry Potter + de 7 vezes ⚡🤓;
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebecaOuriques&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaOuriques&layout=compact&theme=cobalt)
+- 🔭 I am currently switching to programming;
+- 🌱 Studying: Java, JavaScript, Banco de dados, Spring, Node.JS;
+- ⚡ Fun fact: I love read and I have already read Harry Potter + than 7 times ⚡🤓;
 
-### Tecnologias que utilizo:
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- 
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  -->
-</div>
-
-
-### Contato:
+  ### Contato:
 <div> 
  
  <!--
@@ -33,3 +16,151 @@
   
 </div>
 
+
+  <h1 align=center>⚙My favorite Tools and Technologies🌐</h1>
+<p>Some of the technologies in which I have extensive knowledge and experience, along with frameworks and other types of tools that I am familiar with.</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65">
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65">
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65">
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65">
+      <br>React
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65">
+      <br>Rest API
+    </td>
+       <!--   <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65">
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65">
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65">
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65">
+      <br>AWS
+    </td>
+  </tr>
+  -->
+  <tr>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=spring">
+      <br>Spring
+    </td>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=git">
+      <br>Git
+    </td>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=html">
+      <br>HTML
+    </td>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=css">
+      <br>CSS
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=figma">
+      <br>Figma
+    </td>
+    <!--
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=bootstrap">
+      <br>Boostrap
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=angular">
+      <br>Angular
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=postgres">
+      <br>Postgres
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=mongodb">
+      <br>MongoDB
+    </td>
+        <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=dotnet">
+      <br>ASP.NET
+    </td> -->
+  </tr>
+  
+  <tr>
+    <!--<td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=wordpress">
+      <br>WordPress
+    </td>-->
+      <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
+      <br>GitHub
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=postman">
+      <br>Postman
+    </td>
+    <!--
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=ae">
+      <br>AfterEffects
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=ps">
+      <br>Photoshop
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=pr">
+      <br>Premiere
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=notion">
+      <br>Notion
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=gcp">
+      <br>GoogleCloud
+    </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=gitlab">
+      <br>GitLab
+    </td> -->
+  </tr>
+ <!--
+  <tr>
+        <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
+      <br>GitHub
+    </td>
+  </tr>-->
+</table>
+
+<h1 align="center">📊GitHub Stats</h1>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RebecaOuriques&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaOuriques&layout=compact&theme=cobalt)

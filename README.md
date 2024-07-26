@@ -42,6 +42,10 @@
        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65">
       <br>Rest API
     </td>
+      <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=spring">
+      <br>Spring
+    </td>
        <!--   <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65">
       <br>C#
@@ -61,9 +65,9 @@
   </tr>
   -->
   <tr>
-    <td align="center" width="48">
-      <img src="https://skillicons.dev/icons?i=spring">
-      <br>Spring
+      <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
+      <br>GitHub
     </td>
     <td align="center" width="48">
       <img src="https://skillicons.dev/icons?i=git">
@@ -81,10 +85,21 @@
       <img src="https://skillicons.dev/icons?i=figma">
       <br>Figma
     </td>
-    <!--
       <td align="center" width="48">
       <img src="https://skillicons.dev/icons?i=bootstrap">
       <br>Boostrap
+    <!--
+        <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=dotnet">
+      <br>ASP.NET
+    </td> -->
+  </tr>
+  
+  <tr>
+    <!--<td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=wordpress">
+      <br>WordPress
+    </td>-->
     </td>
       <td align="center" width="48">
       <img src="https://skillicons.dev/icons?i=angular">
@@ -98,24 +113,9 @@
       <img src="https://skillicons.dev/icons?i=mongodb">
       <br>MongoDB
     </td>
-        <td align="center" width="48">
-      <img src="https://skillicons.dev/icons?i=dotnet">
-      <br>ASP.NET
-    </td> -->
-  </tr>
-  
-  <tr>
-    <!--<td align="center" width="48">
-      <img src="https://skillicons.dev/icons?i=wordpress">
-      <br>WordPress
-    </td>-->
       <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65">
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65">
-      <br>GitHub
     </td>
       <td align="center" width="48">
       <img src="https://skillicons.dev/icons?i=postman">

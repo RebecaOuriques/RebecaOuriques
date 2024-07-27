@@ -1,7 +1,7 @@
 ## Hi! I am Rebeca Ouriques 👋
 
-- 🔭 I am currently switching to programming;
-- 🌱 Studying: Java, JavaScript, Banco de dados, Spring, Node.JS;
+- 🔭 I am Developer;
+- 🌱 Studying: Java, JavaScript, Banco de dados, Spring Boot, Node.JS;
 - ⚡ Fun fact: I love read and I have already read Harry Potter + than 7 times ⚡🤓;
 
   ### Contato:
